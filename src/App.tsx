@@ -1,9 +1,7 @@
 // src/App.tsx
 import React from 'react';
-// import 'antd/dist/reset.css';
 import MainTable from './components/MainTable';
 import LineGraph from './components/LineGraph';
-// import ChatApp from './components/ChatApp';
 import './App.css';
 
 const App: React.FC = () => (
@@ -12,8 +10,6 @@ const App: React.FC = () => (
     <MainTable />
     <h2>Trends</h2>
     <LineGraph />
-    <h2>Chat Insights</h2>
-    {/* <ChatApp /> */}
   </div>
 );
 
