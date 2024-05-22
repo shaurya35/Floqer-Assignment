@@ -52,7 +52,7 @@ Access the app in your web browser at `http://localhost:8080`.
 
 ## Contributors
 
-- Lets Connect ([Shaurya](https://www.linkedin.com/in/shaurya--jha/))
+- Shaurya ([LinkedIn](https://www.linkedin.com/in/shaurya--jha/))
 
 ## Acknowledgments
 
